@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/agenda.ico</file>
+        <file>imagens/led-green.png</file>
+        <file>imagens/led-red.png</file>
+    </qresource>
+</RCC>

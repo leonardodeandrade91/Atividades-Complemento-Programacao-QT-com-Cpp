@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/desktop-e-celular.ico</file>
+        <file>imagens/qt-banner.jpg</file>
+    </qresource>
+</RCC>

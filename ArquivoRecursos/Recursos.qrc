@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/cadeado.png</file>
+        <file>imagens/idiomas.png</file>
+    </qresource>
+</RCC>

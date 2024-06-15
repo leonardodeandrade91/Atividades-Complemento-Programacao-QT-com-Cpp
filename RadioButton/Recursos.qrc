@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/desktop-e-celular.png</file>
+        <file>imagens/usuarios.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icones/door.png</file>
+        <file>icones/door_in.png</file>
+        <file>icones/door_open.png</file>
+        <file>icones/door_out.png</file>
+        <file>icones/group.png</file>
+        <file>icones/group_add.png</file>
+        <file>icones/group_delete.png</file>
+        <file>icones/group_edit.png</file>
+        <file>icones/group_error.png</file>
+        <file>icones/group_gear.png</file>
+        <file>icones/group_go.png</file>
+        <file>icones/group_key.png</file>
+        <file>icones/group_link.png</file>
+        <file>icones/help.png</file>
+        <file>icones/information.png</file>
+        <file>icones/page.png</file>
+        <file>icones/printer.png</file>
+        <file>icones/user.png</file>
+        <file>icones/user_add.png</file>
+        <file>icones/user_comment.png</file>
+        <file>icones/user_delete.png</file>
+        <file>icones/user_edit.png</file>
+        <file>icones/user_female.png</file>
+        <file>icones/user_go.png</file>
+        <file>icones/wrench.png</file>
+        <file>icones/wrench_orange.png</file>
+        <file>icones/zoom.png</file>
+        <file>icones/zoom_in.png</file>
+        <file>icones/zoom_out.png</file>
+    </qresource>
+</RCC>

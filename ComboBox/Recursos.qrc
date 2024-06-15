@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icones/android.ico</file>
+        <file>icones/apple.ico</file>
+        <file>icones/assembly.ico</file>
+        <file>icones/c.ico</file>
+        <file>icones/cpp.ico</file>
+        <file>icones/criptografia.ico</file>
+        <file>icones/csharp.ico</file>
+        <file>icones/freebsd.ico</file>
+        <file>icones/hacking.ico</file>
+        <file>icones/hardware.ico</file>
+        <file>icones/html5.ico</file>
+        <file>icones/java.ico</file>
+        <file>icones/javascript.ico</file>
+        <file>icones/jquery.ico</file>
+        <file>icones/kotlin.ico</file>
+        <file>icones/laravel.ico</file>
+        <file>icones/linux.ico</file>
+        <file>icones/perl.ico</file>
+        <file>icones/php.ico</file>
+        <file>icones/powershell.ico</file>
+        <file>icones/python.ico</file>
+        <file>icones/qtcreator.ico</file>
+        <file>icones/redes.ico</file>
+        <file>icones/ruby.ico</file>
+        <file>icones/sql.ico</file>
+        <file>icones/vue.ico</file>
+        <file>icones/windows.ico</file>
+        <file>icones/wireless.ico</file>
+    </qresource>
+</RCC>
